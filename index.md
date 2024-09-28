@@ -3,3 +3,6 @@
 ```Javascript
 console.log("Hello Markdown")
 ```
+- [X] Learn about MK
+- [X] Type some things with MK
+- [ ] Type all with MK 😈
